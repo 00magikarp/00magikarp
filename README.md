@@ -1,5 +1,6 @@
 amateur programmer in hs \
 backend >>>>
+loves robotics and things of that nature, not necessarily ai/ml
 
 experience in (not sorted): html+css, js, ts, react, next + tailwind, py, java, kotlin, cpp
 
